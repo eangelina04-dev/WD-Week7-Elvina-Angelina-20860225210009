@@ -7,7 +7,7 @@ Route::get('/', function () {
 })->name('home');
 
 Route::get('/about', function () {
-    return view('about', ['nama' => 'Elvina Angelina']);
+    return view('about');
 })->name('about');
 
 Route::get('/blog', function () {
