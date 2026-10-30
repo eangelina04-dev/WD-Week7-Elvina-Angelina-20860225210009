@@ -7,7 +7,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body class="min-h-screen flex flex-col bg-white text-slate-900 dark:bg-neutral-900 dark:text-slate-50">
+<body class="min-h-screen flex flex-col bg-page text-slate-900 dark:bg page dark:text-slate-50">
 
     <header class="flex py-2 px-4 md:px-8 bg-white border-b border-slate-300 dark:border-neutral-700 dark:bg-neutral-900 min-h-[68px] relative z-20">
         <div class="max-w-7xl mx-auto flex flex-wrap items-center gap-4 w-full">
